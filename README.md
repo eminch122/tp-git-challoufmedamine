@@ -1,0 +1,1 @@
+this project is a good practice and help us to develop git commands using git command lines, initializing the repo and staging and committing and also making a conflict between branchs and then fixing manually the conflict
